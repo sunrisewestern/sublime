@@ -1,0 +1,18 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_size":16,
+	"hot_exit":false,
+	"remeber_open_files":false,
+	"create_window_at_startup": false,
+	"close_windows_when_empty": true,
+	"open_files_in_new_window": "never",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "auto",
+	"color_scheme": "Solarized (light).sublime-color-scheme",
+
+
+}
